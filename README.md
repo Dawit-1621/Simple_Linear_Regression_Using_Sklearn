@@ -1,6 +1,6 @@
 # Simple Linear Regression Using Sklearn
-Simple linear regression without framework
-What is Simple Linear Regression?
+Simple linear regression without framework<br/>
+What is Simple Linear Regression?<br/>
 **Simple linear regression** is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables:
   * One variable, denoted **x,** is regarded as **the predictor, explanatory, or independent variable.** 
   * The other variable, denoted **y,** is regarded as **the response, outcome, or dependent variable.** <br>
